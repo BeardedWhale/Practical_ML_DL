@@ -3,10 +3,10 @@
 https://github.com/BeardedWhale/Practical_ML_DL
 
 ## Task 1
-
-
+See implementation:  [task1](Task 1.ipynb)
 
 ## Task 2
+See implentation: [task2](task 2.ipynb)
 
 Video:
 
